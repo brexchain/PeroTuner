@@ -1,0 +1,6 @@
+{
+  "name": "Acoustic Pro Tuner",
+  "description": "A high-precision, professional acoustic guitar tuner inspired by high-end hardware, featuring real-time pitch detection and offline capability.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
